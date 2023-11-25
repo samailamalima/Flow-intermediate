@@ -80,7 +80,7 @@ For detailed usage and instructions, please refer to the individual code files a
 
 ## Author
 
-[Samaila Anthony Malima](https://github.com/samailammalima)
+[Samaila Anthony Malima](https://github.com/samailamalima)
 
 ## License
 
